@@ -1,2 +1,3 @@
 # Hello-World
 Getting started with my Hello-World Repository....
+I've been interested in this for a long time.  My priority was my children before... Now they're almost through with school, so now I can commit to learning 
